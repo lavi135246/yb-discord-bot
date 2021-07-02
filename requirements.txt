@@ -1,0 +1,35 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.2.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+certifi==2021.5.30
+chardet==4.0.0
+decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
+discord==1.7.3
+discord.py==1.7.3
+flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
+idna==3.2
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+ipython @ file:///tmp/build/80754af9/ipython_1617118429768/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi==0.17.0
+mccabe==0.6.1
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1618853974840/work
+mkl-service==2.3.0
+multidict==5.1.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1618497199865/work
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pycodestyle==2.6.0
+pyflakes==2.2.0
+Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
+six @ file:///tmp/build/80754af9/six_1605205313296/work
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+typing-extensions==3.10.0.0
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+yarl==1.6.3
+zipp @ file:///tmp/build/80754af9/zipp_1603306325174/work
